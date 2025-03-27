@@ -7,7 +7,7 @@ function Footer() {
       <span className="mr-1">Powered by</span>
       <div className="flex items-center">
         <img
-          src="public/resollect.png"
+          src="https://res.cloudinary.com/ashishrana/image/upload/resollect.png"
           alt="Esollect Logo"
           className="h-10 w-auto mr-1"
         />
